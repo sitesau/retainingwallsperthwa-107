@@ -1,0 +1,22 @@
+{
+  "wheel_id": 919,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-107",
+  "project": "retaining-walls-perth-before-you-start-80f0760e3bc4afc080e737da",
+  "parent_t1_ref": "retainingwallsperthwa-153",
+  "node_role": "feeder",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth before you start",
+  "intended_url": "http://retaining-walls-perth-before-you-start-80f0760e3bc4afc080e737da.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "a098bfc75e7f323d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallsperthwa-153/",
+      "anchor": "https://sitesau.github.io/retainingwallsperthwa-153/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
